@@ -1,0 +1,53 @@
+17:32:38  [main] 	Initializing Control Panel
+17:32:39  [main] 	Windows Version:  Home  64-bit
+17:32:39  [main] 	XAMPP Version: 7.1.30
+17:32:39  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+17:32:39  [main] 	You are not running with administrator rights! This will work for
+17:32:39  [main] 	most application stuff but whenever you do something with services
+17:32:39  [main] 	there will be a security dialogue or things will break! So think 
+17:32:39  [main] 	about running this application with administrator rights!
+17:32:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:32:39  [main] 	Checking for prerequisites
+17:32:45  [main] 	All prerequisites found
+17:32:45  [main] 	Initializing Modules
+17:32:45  [main] 	Starting Check-Timer
+17:32:45  [main] 	Control Panel Ready
+17:32:48  [Apache] 	Attempting to start Apache app...
+17:32:48  [Apache] 	Status change detected: running
+17:32:49  [mysql] 	Attempting to start MySQL app...
+17:32:50  [mysql] 	Status change detected: running
+17:33:15  [main] 	Executing "c:\xampp\mysql"
+23:23:42  [Apache] 	Attempting to stop Apache (PID: 12248)
+23:23:42  [Apache] 	Attempting to stop Apache (PID: 7908)
+23:23:42  [Apache] 	Status change detected: stopped
+23:23:43  [mysql] 	Attempting to stop MySQL app...
+23:23:43  [mysql] 	Status change detected: stopped
+23:25:41  [main] 	Deinitializing Modules
+23:25:41  [main] 	Deinitializing Control Panel
+
+08:40:36  [main] 	Initializing Control Panel
+08:40:36  [main] 	Windows Version:  Home  64-bit
+08:40:36  [main] 	XAMPP Version: 7.1.30
+08:40:36  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+08:40:36  [main] 	You are not running with administrator rights! This will work for
+08:40:36  [main] 	most application stuff but whenever you do something with services
+08:40:36  [main] 	there will be a security dialogue or things will break! So think 
+08:40:36  [main] 	about running this application with administrator rights!
+08:40:36  [main] 	XAMPP Installation Directory: "c:\xampp\"
+08:40:36  [main] 	Checking for prerequisites
+08:40:38  [main] 	All prerequisites found
+08:40:38  [main] 	Initializing Modules
+08:40:38  [main] 	Starting Check-Timer
+08:40:38  [main] 	Control Panel Ready
+08:40:40  [Apache] 	Attempting to start Apache app...
+08:40:40  [Apache] 	Status change detected: running
+08:40:40  [mysql] 	Attempting to start MySQL app...
+08:40:43  [mysql] 	Status change detected: running
+14:02:52  [mysql] 	Attempting to stop MySQL app...
+14:02:52  [mysql] 	Status change detected: stopped
+14:02:53  [Apache] 	Attempting to stop Apache (PID: 804)
+14:02:53  [Apache] 	Attempting to stop Apache (PID: 6008)
+14:02:53  [Apache] 	Status change detected: stopped
+14:02:58  [main] 	Deinitializing Modules
+14:02:58  [main] 	Deinitializing Control Panel
+

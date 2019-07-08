@@ -51,3 +51,49 @@
 14:02:58  [main] 	Deinitializing Modules
 14:02:58  [main] 	Deinitializing Control Panel
 
+11:44:42  [main] 	Initializing Control Panel
+11:44:42  [main] 	Windows Version:  Enterprise  64-bit
+11:44:42  [main] 	XAMPP Version: 7.1.30
+11:44:42  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:44:42  [main] 	Running with Administrator rights - good!
+11:44:42  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:44:42  [main] 	Checking for prerequisites
+11:44:47  [main] 	All prerequisites found
+11:44:47  [main] 	Initializing Modules
+11:44:48  [main] 	Starting Check-Timer
+11:44:48  [main] 	Control Panel Ready
+11:45:00  [mysql] 	Attempting to start MySQL app...
+11:45:01  [mysql] 	Status change detected: running
+11:45:10  [Apache] 	Attempting to start Apache app...
+11:45:11  [Apache] 	Status change detected: running
+13:25:53  [Apache] 	Attempting to stop Apache (PID: 6796)
+13:25:53  [Apache] 	Attempting to stop Apache (PID: 9732)
+13:25:54  [Apache] 	Status change detected: stopped
+13:25:54  [mysql] 	Attempting to stop MySQL app...
+13:25:55  [mysql] 	Status change detected: stopped
+13:27:15  [main] 	Deinitializing Modules
+13:27:15  [main] 	Deinitializing Control Panel
+
+19:10:11  [main] 	Initializing Control Panel
+19:10:11  [main] 	Windows Version:  Enterprise  64-bit
+19:10:11  [main] 	XAMPP Version: 7.1.30
+19:10:11  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:10:11  [main] 	Running with Administrator rights - good!
+19:10:11  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:10:11  [main] 	Checking for prerequisites
+19:10:13  [main] 	All prerequisites found
+19:10:13  [main] 	Initializing Modules
+19:10:13  [main] 	Starting Check-Timer
+19:10:13  [main] 	Control Panel Ready
+19:10:18  [Apache] 	Attempting to start Apache app...
+19:10:18  [Apache] 	Status change detected: running
+19:10:24  [mysql] 	Attempting to start MySQL app...
+19:10:24  [mysql] 	Status change detected: running
+20:14:48  [Apache] 	Attempting to stop Apache (PID: 9272)
+20:14:48  [Apache] 	Attempting to stop Apache (PID: 3436)
+20:14:48  [Apache] 	Status change detected: stopped
+20:14:49  [mysql] 	Attempting to stop MySQL app...
+20:14:49  [mysql] 	Status change detected: stopped
+20:14:53  [main] 	Deinitializing Modules
+20:14:53  [main] 	Deinitializing Control Panel
+

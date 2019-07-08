@@ -1,11 +1,11 @@
 <?php
 $server = "localhost";
-$user = "roota";
+$user = "root";
 $pass = "";
 $dbname	= "rapor_sekolah";
 
 $connect = mysqli_connect($server,$user,$pass);
-$select_dbname = mysqli_select_db($dbname);
+$select_dbname = mysqli_select_db($connect,$dbname);
 
 if ($connect) {
 	echo "Berhasil terkoneksi <br />";
@@ -17,4 +17,4 @@ if ($connect) {
 } else {
 	echo "gagal terkoneksi<br />";
 }
- ?>
+?>

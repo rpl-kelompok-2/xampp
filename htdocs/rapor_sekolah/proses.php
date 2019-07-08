@@ -3,10 +3,10 @@
 session_start();
 include 'koneksi.php'; 
 if (isset($_POST['login'])) {
-	$email_user	= $_POST['email'];
-	$pwd_user	= $_POST['pwd'];
+	$nis	= $_POST['nis'];
+	$pswd	= $_POST['password'];
 
-	$query	= mysqli_query("SELECT * FROM user WHERE email_user = '$email' AND pwd_user = '$pwd'");
+	$query	= mysqli_query($connect, "SELECT * FROM user WHERE nis = '$nis' AND pswd = '$pswd'");
 	if (mysqli_num_rows($query) !==0) {
 		
 		$get	= mysqli_fetch_array($query);
@@ -22,6 +22,6 @@ if (isset($_POST['login'])) {
 		echo "Login gagal";
 	}
 } else {
-	header("location:login.php");
+	header("location:index.php");
 }
  ?>

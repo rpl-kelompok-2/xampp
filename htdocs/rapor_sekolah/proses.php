@@ -9,7 +9,7 @@ if (!isset($_SESSION['login'])) {
 	$query	= mysqli_query($connect, "SELECT * FROM user WHERE NIS = '$nis' AND pwd_user = '$pswd'");
 	if (mysqli_num_rows($query) !== 0 ) {
 		$_SESSION['login'] = "siswa";
-		header("location:index.php");
+		header("location:siswa/index.php");
 	} else {
 		header("location:login.php");
 	}

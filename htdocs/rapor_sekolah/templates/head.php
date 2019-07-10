@@ -54,7 +54,7 @@
 		 
 		<div class="sidebar--profile"> 
             <div class="pull-center">
-                <a href="../login.php" class="btn btn-default btn-flat">Sign out</a>
+                <a href="../login.php?logout=true" class="btn btn-default btn-flat">Sign out</a>
             </div>
 			    
 		<div class="sidebar--nav"> 

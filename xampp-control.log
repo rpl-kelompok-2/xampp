@@ -51,6 +51,7 @@
 14:02:58  [main] 	Deinitializing Modules
 14:02:58  [main] 	Deinitializing Control Panel
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 11:44:42  [main] 	Initializing Control Panel
 11:44:42  [main] 	Windows Version:  Enterprise  64-bit
@@ -264,4 +265,136 @@
 22.24.52  [main] 	Deinitializing Modules
 22.24.52  [main] 	Deinitializing Control Panel
 >>>>>>> login
+=======
+19:21:36  [main] 	Initializing Control Panel
+19:21:36  [main] 	Windows Version:  Enterprise  64-bit
+19:21:36  [main] 	XAMPP Version: 7.1.30
+19:21:36  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:21:36  [main] 	You are not running with administrator rights! This will work for
+19:21:36  [main] 	most application stuff but whenever you do something with services
+19:21:36  [main] 	there will be a security dialogue or things will break! So think 
+19:21:36  [main] 	about running this application with administrator rights!
+19:21:36  [main] 	XAMPP Installation Directory: "c:\xampp\new folder\xampp\"
+19:21:36  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+19:21:36  [main] 	Checking for prerequisites
+19:21:36  [main] 	All prerequisites found
+19:21:37  [main] 	Initializing Modules
+19:21:37  [Tomcat] 	Problem detected!
+19:21:37  [Tomcat] 	Port 8080 in use by "C:\oraclexe\app\oracle\product\11.2.0\server\BIN\tnslsnr.exe"!
+19:21:37  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:21:37  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:21:37  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:21:37  [main] 	Starting Check-Timer
+19:21:37  [main] 	Control Panel Ready
+19:21:40  [Apache] 	Attempting to start Apache app...
+19:21:41  [Apache] 	Status change detected: running
+19:21:41  [mysql] 	Attempting to start MySQL app...
+19:21:42  [mysql] 	Status change detected: running
+19:21:42  [Apache] 	Status change detected: stopped
+19:21:42  [Apache] 	Error: Apache shutdown unexpectedly.
+19:21:42  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:21:42  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:21:42  [Apache] 	Press the Logs button to view error logs and check
+19:21:42  [Apache] 	the Windows Event Viewer for more clues
+19:21:42  [Apache] 	If you need more help, copy and post this
+19:21:42  [Apache] 	entire log window on the forums
+19:21:43  [mysql] 	Status change detected: stopped
+19:21:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:21:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:21:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:21:43  [mysql] 	Press the Logs button to view error logs and check
+19:21:43  [mysql] 	the Windows Event Viewer for more clues
+19:21:43  [mysql] 	If you need more help, copy and post this
+19:21:43  [mysql] 	entire log window on the forums
+19:21:46  [mysql] 	Attempting to start MySQL app...
+19:21:52  [main] 	Deinitializing Modules
+19:21:52  [main] 	Deinitializing Control Panel
+
+19:21:23  [main] 	Initializing Control Panel
+19:21:23  [main] 	Windows Version:  Enterprise  64-bit
+19:21:23  [main] 	XAMPP Version: 7.1.30
+19:21:23  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:21:23  [main] 	You are not running with administrator rights! This will work for
+19:21:23  [main] 	most application stuff but whenever you do something with services
+19:21:23  [main] 	there will be a security dialogue or things will break! So think 
+19:21:23  [main] 	about running this application with administrator rights!
+19:21:23  [main] 	XAMPP Installation Directory: "c:\xampp\new folder\xampp\"
+19:21:23  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+19:21:23  [main] 	Checking for prerequisites
+19:21:36  [main] 	All prerequisites found
+19:21:37  [main] 	Initializing Modules
+19:21:37  [Tomcat] 	Problem detected!
+19:21:37  [Tomcat] 	Port 8080 in use by "C:\oraclexe\app\oracle\product\11.2.0\server\BIN\tnslsnr.exe"!
+19:21:37  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:21:37  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:21:37  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:21:37  [main] 	Starting Check-Timer
+19:21:37  [main] 	Control Panel Ready
+19:21:41  [Apache] 	Status change detected: running
+19:21:42  [mysql] 	Status change detected: running
+19:21:42  [Apache] 	Status change detected: stopped
+19:21:42  [Apache] 	Error: Apache shutdown unexpectedly.
+19:21:42  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:21:42  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:21:42  [Apache] 	Press the Logs button to view error logs and check
+19:21:42  [Apache] 	the Windows Event Viewer for more clues
+19:21:42  [Apache] 	If you need more help, copy and post this
+19:21:42  [Apache] 	entire log window on the forums
+19:21:43  [mysql] 	Status change detected: stopped
+19:21:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+19:21:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+19:21:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+19:21:43  [mysql] 	Press the Logs button to view error logs and check
+19:21:43  [mysql] 	the Windows Event Viewer for more clues
+19:21:43  [mysql] 	If you need more help, copy and post this
+19:21:43  [mysql] 	entire log window on the forums
+19:21:54  [main] 	Deinitializing Modules
+19:21:54  [main] 	Deinitializing Control Panel
+
+19:22:00  [main] 	Initializing Control Panel
+19:22:00  [main] 	Windows Version:  Enterprise  64-bit
+19:22:00  [main] 	XAMPP Version: 7.1.30
+19:22:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:22:00  [main] 	You are not running with administrator rights! This will work for
+19:22:00  [main] 	most application stuff but whenever you do something with services
+19:22:00  [main] 	there will be a security dialogue or things will break! So think 
+19:22:00  [main] 	about running this application with administrator rights!
+19:22:00  [main] 	XAMPP Installation Directory: "c:\xampp\new folder\xampp\"
+19:22:00  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+19:22:00  [main] 	Checking for prerequisites
+19:22:00  [main] 	All prerequisites found
+19:22:00  [main] 	Initializing Modules
+19:22:00  [Tomcat] 	Problem detected!
+19:22:00  [Tomcat] 	Port 8080 in use by "C:\oraclexe\app\oracle\product\11.2.0\server\BIN\tnslsnr.exe"!
+19:22:00  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:22:00  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:22:00  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:22:00  [main] 	Starting Check-Timer
+19:22:00  [main] 	Control Panel Ready
+19:22:03  [Apache] 	Attempting to start Apache app...
+19:22:03  [Apache] 	Status change detected: running
+19:22:04  [mysql] 	Attempting to start MySQL app...
+19:22:04  [Apache] 	Status change detected: stopped
+19:22:04  [Apache] 	Error: Apache shutdown unexpectedly.
+19:22:04  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:22:04  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:22:04  [Apache] 	Press the Logs button to view error logs and check
+19:22:04  [Apache] 	the Windows Event Viewer for more clues
+19:22:04  [Apache] 	If you need more help, copy and post this
+19:22:04  [Apache] 	entire log window on the forums
+19:22:05  [mysql] 	Attempting to start MySQL app...
+19:22:07  [Apache] 	Attempting to start Apache app...
+19:22:07  [Apache] 	Status change detected: running
+19:22:08  [Apache] 	Status change detected: stopped
+19:22:08  [Apache] 	Error: Apache shutdown unexpectedly.
+19:22:08  [Apache] 	This may be due to a blocked port, missing dependencies, 
+19:22:08  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+19:22:08  [Apache] 	Press the Logs button to view error logs and check
+19:22:08  [Apache] 	the Windows Event Viewer for more clues
+19:22:08  [Apache] 	If you need more help, copy and post this
+19:22:08  [Apache] 	entire log window on the forums
+19:22:09  [mysql] 	Attempting to start MySQL app...
+20:12:59  [main] 	Deinitializing Modules
+20:12:59  [main] 	Deinitializing Control Panel
+>>>>>>> Stashed changes
 

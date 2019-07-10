@@ -53,15 +53,15 @@
 		 
 		<div class="sidebar--profile"> 
             <div class="pull-center">
-                <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                <a href="../login.php" class="btn btn-default btn-flat">Sign out</a>
             </div>
 			    
 		<div class="sidebar--nav"> 
 			<ul> 
 				<li> 
 					<ul> 
-						<li class=""> <a href="../dashboard"> <i class="fa fa-home"></i> <span>Dashboard</span> </a> </li>
-							<li class=""> <a href="#"> <i class="fa fa-files-o"></i> <span>NILAI RAPOR</span> </a> 
+						<li class=""> <a href="../siswa/index.php"> <i class="fa fa-home"></i> <span>Dashboard</span> </a> </li>
+							<li class=""> <a href="../siswa/tb_nilai.php"> <i class="fa fa-files-o"></i> <span>NILAI RAPOR</span> </a> 
 	</li>
     <li class=""> <a href="#"> <i class="fa fa-files-o"></i> <span>ABSENSI</span> </a> 
 		<li class=""> <a href="../pengaturan"> <i class="fa fa-cog"></i> <span>Pengaturan</span> </a></li>	

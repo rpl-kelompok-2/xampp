@@ -1,0 +1,4 @@
+ PMA_token |s:16:":Oy5=or7.wFUu!U$";browser_access_time|a:1:{s:7:"default";i:1562752724;}Import_message|a:1:{s:7:"message";s:359:"<div class="error"><h1>Galat</h1><p>
+    <strong>MySQL menyatakan: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Ferror-messages-server.html" target="mysql_doc"><img src="themes/dot.gif" title="Dokumentasi" alt="Dokumentasi" class="icon ic_b_help" /></a>
+</p>
+<code>Koneksi gagal: pengaturan invalid.</code><br/></div>";}errors|a:0:{}

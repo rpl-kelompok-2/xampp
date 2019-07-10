@@ -658,3 +658,25 @@ sl:warn] [pid 10752:tid 564] AH01909: www.example.com:443:0 server certificate d
 [Wed Jul 10 19:17:52.684048 2019] [ssl:warn] [pid 13184:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Wed Jul 10 19:17:52.972510 2019] [ssl:warn] [pid 13184:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Wed Jul 10 19:17:53.006421 2019] [mpm_winnt:notice] [pid 13184:tid 576] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 10 19:41:10.134020 2019] [ssl:warn] [pid 14880:tid 148] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 19:41:10.302719 2019] [core:warn] [pid 14880:tid 148] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 10 19:41:10.470271 2019] [ssl:warn] [pid 14880:tid 148] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 19:41:10.512161 2019] [mpm_winnt:notice] [pid 14880:tid 148] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.1.30 configured -- resuming normal operations
+[Wed Jul 10 19:41:10.512161 2019] [mpm_winnt:notice] [pid 14880:tid 148] AH00456: Apache Lounge VC14 Server built: May 29 2019 14:38:49
+[Wed Jul 10 19:41:10.513157 2019] [core:notice] [pid 14880:tid 148] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jul 10 19:41:10.517146 2019] [mpm_winnt:notice] [pid 14880:tid 148] AH00418: Parent: Created child process 14940
+[Wed Jul 10 19:41:11.438275 2019] [ssl:warn] [pid 14940:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 19:41:11.760293 2019] [ssl:warn] [pid 14940:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 19:41:12.027304 2019] [mpm_winnt:notice] [pid 14940:tid 476] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 10 19:52:07.202289 2019] [php7:warn] [pid 14940:tid 1936] [client ::1:55176] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\\xampp\\htdocs\\rapor_sekolah\\proses.php on line 10, referer: http://localhost/rapor_sekolah/login.php
+[Wed Jul 10 19:54:03.681996 2019] [php7:warn] [pid 14940:tid 1928] [client ::1:55221] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\\xampp\\htdocs\\rapor_sekolah\\proses.php on line 10, referer: http://localhost/rapor_sekolah/login.php
+[Wed Jul 10 20:23:54.114763 2019] [ssl:warn] [pid 1264:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 20:23:54.190563 2019] [core:warn] [pid 1264:tid 524] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 10 20:23:54.348141 2019] [ssl:warn] [pid 1264:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 20:23:54.728662 2019] [mpm_winnt:notice] [pid 1264:tid 524] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.1.30 configured -- resuming normal operations
+[Wed Jul 10 20:23:54.728662 2019] [mpm_winnt:notice] [pid 1264:tid 524] AH00456: Apache Lounge VC14 Server built: May 29 2019 14:38:49
+[Wed Jul 10 20:23:54.728662 2019] [core:notice] [pid 1264:tid 524] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jul 10 20:23:54.751326 2019] [mpm_winnt:notice] [pid 1264:tid 524] AH00418: Parent: Created child process 12656
+[Wed Jul 10 20:23:55.493442 2019] [ssl:warn] [pid 12656:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 20:23:55.781766 2019] [ssl:warn] [pid 12656:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 10 20:23:55.806700 2019] [mpm_winnt:notice] [pid 12656:tid 544] AH00354: Child: Starting 150 worker threads.

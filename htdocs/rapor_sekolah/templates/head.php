@@ -10,7 +10,7 @@
         <meta name="author" content=""> 
         <meta name="description" content=""> 
         <meta name="keywords" content=""> 
-
+        <!-- Bootstrap -->
         <link rel="icon" href="favicon.png" type="image/png"> 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700%7CMontserrat:400,500">
         <link rel="stylesheet" href="../css/bootstrap.min.css"> 
@@ -27,6 +27,7 @@
         <link rel="stylesheet" href="../css/ionicons.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+        <!-- Bootstrap -->
 <body>
         <style type="text/css">
             .main--content{padding-top: 15px !important;}

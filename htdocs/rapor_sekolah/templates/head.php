@@ -32,3 +32,40 @@
             .main--content{padding-top: 15px !important;}
         </style>
     </head>
+    <body class=""> 
+        <div class="wrapper">
+            <header class="navbar navbar-fixed"> 
+		<div class="navbar--header"> 
+			<a href=".." class="logo">
+                <span style="font-size: 22px; font-weight: bold;"> S.I.N.A.S </span></a>
+			<a href="#" class="navbar--btn" data-toggle="sidebar" title="Toggle Sidebar"> <i class="fa fa-bars"></i> </a>
+		</div>
+		<a href="#" class="navbar--btn" data-toggle="sidebar" title="Toggle Sidebar"> <i class="fa fa-bars"></i> </a>
+		<div class="navbar--search"> 
+			<form action="http://themelooks.net/demo/dadmin/html/search-results.html"> 
+			</form>
+		</div>
+		<div class="navbar--nav ml-auto"> 
+			<ul class="nav"> </ul>
+		</div>
+	</header>
+<aside class="sidebar" data-trigger="scrollbar">
+		 
+		<div class="sidebar--profile"> 
+            <div class="pull-center">
+                <a href="#" class="btn btn-default btn-flat">Sign out</a>
+            </div>
+			    
+		<div class="sidebar--nav"> 
+			<ul> 
+				<li> 
+					<ul> 
+						<li class=""> <a href="../dashboard"> <i class="fa fa-home"></i> <span>Dashboard</span> </a> </li>
+							<li class=""> <a href="#"> <i class="fa fa-files-o"></i> <span>NILAI RAPOR</span> </a> 
+	</li>
+    <li class=""> <a href="#"> <i class="fa fa-files-o"></i> <span>ABSENSI</span> </a> 
+		<li class=""> <a href="../pengaturan"> <i class="fa fa-cog"></i> <span>Pengaturan</span> </a></li>	
+	</li>		
+	</ul>
+</div>
+</aside>       

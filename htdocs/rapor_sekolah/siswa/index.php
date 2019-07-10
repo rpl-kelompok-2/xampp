@@ -2,7 +2,6 @@
 session_start();
 if (isset($_SESSION['login'])) { ?>
 
-
 <?php require_once("../templates/head.php");?>
          
     <main class="main--container"> 
@@ -70,13 +69,7 @@ if (isset($_SESSION['login'])) { ?>
 
 
 
-    
-
-
     <?php require_once ("../templates/footerjs.php");?>
-
-            
-
 
 <?php
 } else {

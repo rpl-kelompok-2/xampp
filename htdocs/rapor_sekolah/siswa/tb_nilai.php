@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 <?php require_once("../templates/head.php");?>
 
+=======
+<html>
+<head>
+<?php 
+session_start();
+if (isset($_SESSION['login'])) { ?>
+
+
+   <title>Penggunaan Tag Tabel</title>
+</head>
+>>>>>>> Trubus
 <body>
 <h1>NILAI SISWA KELAS 10</h1>
 <table border="1">
@@ -24,10 +36,15 @@
 
     <tr>
         <th colspan="1">No</th>
+<<<<<<< HEAD
         <th colspan="1">NIP</th>
         <th colspan="1">KET_NILAI</th>
         <th colspan="1">MAPEL</th>
         <th colspan="1">NILAI</th>
+=======
+        <th colspan="1">Mata Pelajaran</th>
+        <th colspan="1">Nilai</th>
+>>>>>>> Trubus
     </tr>
     <tr>
         <td>1</td>
@@ -51,3 +68,15 @@
     </tr>
     
 </table>
+<<<<<<< HEAD
+=======
+</body>
+</html>
+    <?php require_once ("../templates/footerjs.php");?>
+
+<?php
+} else {
+  header("location:../siswa/tb_nilai.php");
+}
+?>
+>>>>>>> Trubus

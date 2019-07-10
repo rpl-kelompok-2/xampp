@@ -473,6 +473,7 @@
 19:58:00  [main] 	Deinitializing Modules
 19:58:00  [main] 	Deinitializing Control Panel
 
+<<<<<<< HEAD
 20:23:49  [main] 	Initializing Control Panel
 20:23:49  [main] 	Windows Version:  Enterprise  64-bit
 20:23:49  [main] 	XAMPP Version: 7.1.30
@@ -508,3 +509,5 @@
 20:33:11  [main] 	Deinitializing Modules
 20:33:11  [main] 	Deinitializing Control Panel
 
+=======
+>>>>>>> Trubus
